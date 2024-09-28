@@ -1,5 +1,5 @@
 ---
-title: "Assignment 1: Buffer Overflow and String Format Attack"
+title: "Assignment 1: Buffer Overflow and Format String Attack"
 subtitle: "IS561: Binary Code Analysis and Secure Software Systems"
 author: ["Heechan Yang, 20234252"]
 institute: "KAIST"
